@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-partie2
-=======
+
 TP - Gestion de version avec Git et GitHub
 Notions Abordées :
 Git et GitHub
@@ -32,5 +30,4 @@ Manipulation d’un dépôt existant :
 Récupération d'un dépôt existant :
 Clonage d'un dépôt distant sur votre machine locale avec git clone.
 Ajout de fichiers, validation et envoi des modifications vers GitHub avec git add, git commit, et git push.
-Ce document résume les étapes pratiques réalisées lors du TP de gestion de version avec Git et GitHub.
->>>>>>> 15b006f (ajout du readme et modification de hello.txt)
+Ce document résume les étapes pratiques réalisées lors du TP de gestion de version avec Git
